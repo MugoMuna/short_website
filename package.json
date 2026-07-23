@@ -58,14 +58,14 @@
     "markdown-it-abbr": "^2.0.0",
     "markdown-it-anchor": "^9.2.1",
     "markdown-it-attrs": "^5.0.0",
-    "markdown-it-emoji": "^3.0.0",
+    "markdown-it-emoji": "^3.1.0",
     "markdown-it-footnote": "^4.0.0",
     "markdown-it-link-attributes": "^4.0.1",
     "markdown-it-mark": "^4.0.0",
     "markdown-it-prism": "^4.0.0",
     "netlify-plugin-cache": "^1.0.3",
     "pa11y-ci": "^4.1.1",
-    "postcss": "^8.5.19",
+    "postcss": "^8.5.22",
     "postcss-cli": "^11.0.1",
     "postcss-import": "^16.1.1",
     "postcss-import-ext-glob": "^2.1.1",
@@ -77,5 +77,11 @@
     "sharp-ico": "^0.1.5",
     "slugify": "^1.6.9",
     "svgo": "^4.0.2"
+  },
+  "allowScripts": {
+    "sharp@0.33.5": true,
+    "sharp@0.35.3": true,
+    "esbuild@0.28.1": true,
+    "puppeteer@24.43.1": true
   }
 }
